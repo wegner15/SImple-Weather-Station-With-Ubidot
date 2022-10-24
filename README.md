@@ -8,3 +8,6 @@ DHT11 was used to measure the temperature and humidity
 BMP180 was used to measure altitude, temperature (the dht11 values are more accurate)
 Rain sensor was used to detarmine if it was raining
 The dew point was then calculated to determine the possibility of rain
+
+## Output
+![Dashboard](image.png)
